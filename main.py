@@ -14,7 +14,7 @@ user_name = input('Please enter your name: ')
 user_name = user_name.title()
 print(f'Hey there {user_name}, welcome to my python Fortune Teller program.')
 
-question1 = input('Would you like to know what you future holds?: ')
+question1 = input('Would you like to know what you future holds? (y/n): ')
 question1 = question1.lower()
 time.sleep(1)
 
