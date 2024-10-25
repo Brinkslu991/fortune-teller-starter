@@ -6,7 +6,7 @@ import time
 import random
 import sys
 
-fortunes = ['You\'re a winner!', 'A secret admirer will soon send you a sign of affection!', 'The one you love is much closer than you think!', 'Good things will happen to you by the end of the day today!', 'Fame and fortune will be yours if you take the time to learn Python!', 'I\'m just a computer program, and have no magical powers!', 'It ends today', 'The Rapture has begun', 'Play Cookie Clicker', 'Do you know what Pneumonoultramicroscopicsilicovolcanoconiosis is']
+fortunes = ['You\'re a winner!', 'A secret admirer will soon send you a sign of affection!', 'The one you love is much closer than you think!', 'Good things will happen to you by the end of the day today!', 'Fame and fortune will be yours if you take the time to learn Python!', 'I\'m just a computer program, and have no magical powers!', 'It ends today', 'The Rapture has begun', 'Play Cookie Clicker', 'Do you know what Pneumonoultramicroscopicsilicovolcanoconiosis is', 'I will take your bones']
 
 magic_colors = ['blue', 'red', 'green', 'yellow']
 
